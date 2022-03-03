@@ -18,7 +18,8 @@ void checkMemoria(Dato*);
 int main(int argc, char *argv[]) {
 	Dato* inicioCola = NULL;
 	Dato* finalCola = NULL; 
-	
+		
+	/*Implementar menu*/
 
 	return 0;
 }

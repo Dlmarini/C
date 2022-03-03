@@ -21,7 +21,7 @@ int main() {
 	int indice= 0;
 	
 	
-	getch();
+	/*Implementar menu*/
 	
 	
 	return 0;
